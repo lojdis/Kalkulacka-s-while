@@ -1,0 +1,14 @@
+Z:\2.IA\programování\lojda\Kalkulačka s While\Kalkulačka s While\bin\Debug\netcoreapp3.1\Kalkulačka s While.exe
+Z:\2.IA\programování\lojda\Kalkulačka s While\Kalkulačka s While\bin\Debug\netcoreapp3.1\Kalkulačka s While.deps.json
+Z:\2.IA\programování\lojda\Kalkulačka s While\Kalkulačka s While\bin\Debug\netcoreapp3.1\Kalkulačka s While.runtimeconfig.json
+Z:\2.IA\programování\lojda\Kalkulačka s While\Kalkulačka s While\bin\Debug\netcoreapp3.1\Kalkulačka s While.runtimeconfig.dev.json
+Z:\2.IA\programování\lojda\Kalkulačka s While\Kalkulačka s While\bin\Debug\netcoreapp3.1\Kalkulačka s While.dll
+Z:\2.IA\programování\lojda\Kalkulačka s While\Kalkulačka s While\bin\Debug\netcoreapp3.1\Kalkulačka s While.pdb
+Z:\2.IA\programování\lojda\Kalkulačka s While\Kalkulačka s While\obj\Debug\netcoreapp3.1\Kalkulačka s While.csproj.AssemblyReference.cache
+Z:\2.IA\programování\lojda\Kalkulačka s While\Kalkulačka s While\obj\Debug\netcoreapp3.1\Kalkulačka s While.GeneratedMSBuildEditorConfig.editorconfig
+Z:\2.IA\programování\lojda\Kalkulačka s While\Kalkulačka s While\obj\Debug\netcoreapp3.1\Kalkulačka s While.AssemblyInfoInputs.cache
+Z:\2.IA\programování\lojda\Kalkulačka s While\Kalkulačka s While\obj\Debug\netcoreapp3.1\Kalkulačka s While.AssemblyInfo.cs
+Z:\2.IA\programování\lojda\Kalkulačka s While\Kalkulačka s While\obj\Debug\netcoreapp3.1\Kalkulačka s While.csproj.CoreCompileInputs.cache
+Z:\2.IA\programování\lojda\Kalkulačka s While\Kalkulačka s While\obj\Debug\netcoreapp3.1\Kalkulačka s While.dll
+Z:\2.IA\programování\lojda\Kalkulačka s While\Kalkulačka s While\obj\Debug\netcoreapp3.1\Kalkulačka s While.pdb
+Z:\2.IA\programování\lojda\Kalkulačka s While\Kalkulačka s While\obj\Debug\netcoreapp3.1\Kalkulačka s While.genruntimeconfig.cache

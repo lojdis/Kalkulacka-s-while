@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cUR1mfNFJKzKdMIlEmi7peRfZJoVDDrqcwkbFScojSn/W8hWQ/MS2QKIqCknYOoVSVdzuvlLSI/w2mcbj0wDvw==",
+  "success": true,
+  "projectFilePath": "Z:\\2.IA\\programování\\lojda\\Kalkulačka s While\\Kalkulačka s While\\Kalkulačka s While.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ou4pc14\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512"
+  ],
+  "logs": []
+}
